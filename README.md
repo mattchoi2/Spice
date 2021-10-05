@@ -14,6 +14,8 @@ As a tribute to the never ending battle against hunger, Spice is a collection of
 
 [AWS Architecture](https://lucid.app/lucidchart/1514bece-d14f-4c7a-987b-10a27e290578/edit?viewport_loc=90%2C14%2C1474%2C632%2C0_0&invitationId=inv_2217070e-39a0-4491-999e-c567a4057731)
 
+[Full-Stack React AWS Deployment Guide](https://aws.amazon.com/getting-started/hands-on/build-react-app-amplify-graphql/)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
