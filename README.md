@@ -16,7 +16,7 @@ As a tribute to the never ending battle against hunger, Spice is a collection of
 
 [Full-Stack React AWS Deployment Guide](https://aws.amazon.com/getting-started/hands-on/build-react-app-amplify-graphql/)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[React + Node Website Guide](https://www.freecodecamp.org/news/how-to-build-a-todo-app-with-react-typescript-nodejs-and-mongodb/#client-side-with-react-and-typescript)
 
 ## Available Scripts
 
