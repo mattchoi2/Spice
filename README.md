@@ -1,4 +1,4 @@
-# Spice
+# 🔥 Spice 🔥
 As a tribute to the never ending battle against hunger, Spice is a collection of recipes with an honest and straight-forward UI meant to be read while cooking. 
 
 ## Tech Stack
